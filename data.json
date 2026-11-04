@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "age": 25,
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "salary": 65000,
+    "isActive": true,
+    "address": {
+      "city": "Kathmandu",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sophia Williams",
+    "email": "sophia.williams@example.com",
+    "age": 29,
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "salary": 72000,
+    "isActive": true,
+    "address": {
+      "city": "Sydney",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rohan Thapa",
+    "email": "rohan.thapa@example.com",
+    "age": 31,
+    "role": "Backend Developer",
+    "department": "Engineering",
+    "salary": 78000,
+    "isActive": true,
+    "address": {
+      "city": "Pokhara",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "age": 27,
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "salary": 60000,
+    "isActive": true,
+    "address": {
+      "city": "Melbourne",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Prakash Gurung",
+    "email": "prakash.gurung@example.com",
+    "age": 35,
+    "role": "Project Manager",
+    "department": "Management",
+    "salary": 90000,
+    "isActive": true,
+    "address": {
+      "city": "Lalitpur",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown",
+    "email": "olivia.brown@example.com",
+    "age": 24,
+    "role": "Junior Developer",
+    "department": "Engineering",
+    "salary": 48000,
+    "isActive": true,
+    "address": {
+      "city": "Brisbane",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Suman Adhikari",
+    "email": "suman.adhikari@example.com",
+    "age": 28,
+    "role": "DevOps Engineer",
+    "department": "Infrastructure",
+    "salary": 82000,
+    "isActive": true,
+    "address": {
+      "city": "Butwal",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 8,
+    "name": "James Anderson",
+    "email": "james.anderson@example.com",
+    "age": 33,
+    "role": "QA Engineer",
+    "department": "Quality Assurance",
+    "salary": 67000,
+    "isActive": false,
+    "address": {
+      "city": "Perth",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Anisha Karki",
+    "email": "anisha.karki@example.com",
+    "age": 26,
+    "role": "Technical Writer",
+    "department": "Documentation",
+    "salary": 55000,
+    "isActive": true,
+    "address": {
+      "city": "Bhaktapur",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson@example.com",
+    "age": 38,
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "salary": 110000,
+    "isActive": true,
+    "address": {
+      "city": "Adelaide",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bikash Shrestha",
+    "email": "bikash.shrestha@example.com",
+    "age": 30,
+    "role": "Database Administrator",
+    "department": "Database",
+    "salary": 76000,
+    "isActive": true,
+    "address": {
+      "city": "Kathmandu",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mia Taylor",
+    "email": "mia.taylor@example.com",
+    "age": 23,
+    "role": "Intern",
+    "department": "Engineering",
+    "salary": 32000,
+    "isActive": true,
+    "address": {
+      "city": "Canberra",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Nabin Poudel",
+    "email": "nabin.poudel@example.com",
+    "age": 32,
+    "role": "System Administrator",
+    "department": "Infrastructure",
+    "salary": 74000,
+    "isActive": false,
+    "address": {
+      "city": "Chitwan",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Charlotte Martin",
+    "email": "charlotte.martin@example.com",
+    "age": 28,
+    "role": "Product Manager",
+    "department": "Product",
+    "salary": 95000,
+    "isActive": true,
+    "address": {
+      "city": "Sydney",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Sagar Bhandari",
+    "email": "sagar.bhandari@example.com",
+    "age": 27,
+    "role": "Mobile Developer",
+    "department": "Engineering",
+    "salary": 70000,
+    
+    "isActive": true,
+    "address": {
+      "city": "Biratnagar",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 16,
+    "name": "William Harris",
+    "email": "william.harris@example.com",
+    "age": 41,
+    "role": "Engineering Manager",
+    "department": "Management",
+    "salary": 125000,
+    "isActive": true,
+    "address": {
+      "city": "Melbourne",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kritika Rai",
+    "email": "kritika.rai@example.com",
+    "age": 26,
+    "role": "Data Analyst",
+    "department": "Analytics",
+    "salary": 62000,
+    "isActive": true,
+    "address": {
+      "city": "Dharan",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Noah Thompson",
+    "email": "noah.thompson@example.com",
+    "age": 36,
+    "role": "Security Engineer",
+    "department": "Security",
+    "salary": 98000,
+    "isActive": false,
+    "address": {
+      "city": "Brisbane",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ashish KC",
+    "email": "ashish.kc@example.com",
+    "age": 29,
+    "role": "Full Stack Developer",
+    "department": "Engineering",
+    "salary": 85000,
+    "isActive": true,
+    "address": {
+      "city": "Butwal",
+      "country": "Nepal"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Isabella Davis",
+    "email": "isabella.davis@example.com",
+    "age": 34,
+    "role": "Business Analyst",
+    "department": "Business",
+    "salary": 79000,
+    "isActive": true,
+    "address": {
+      "city": "Perth",
+      "country": "Australia"
+    }
+  }
+]
