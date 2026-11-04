@@ -1,6 +1,8 @@
 import express from 'express'
-import userRoutes from './routes/user.routes.js'
+import userRoutes from './src/routes/user.routes.js'
+import connectDB from './src/config/database.js'
 
+connectDB()
 const app = express()
 app.use(express.json())
 

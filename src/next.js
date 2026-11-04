@@ -1,5 +1,3 @@
-//middleware bhaneko data sahi xa kinai check garni validate garni verify garni etc
-
 import express from "express";
 const PORT = 5004;
 const app = express(); //express euta backend ko framework ho
