@@ -1,8 +1,8 @@
 import express from "express";
 const PORT = 5004;
 const app = express();
-//middleware - it verifies the req and response before giving output
-//middleware bhaneko data sahi xa kinai check garni validate garni verify garni etc
+//middleware - it verifies the req and response before giving output!
+//middleware bhaneko data sahi xa kinai check garni validate garni verify garni etc!
 
 app.use(express.json()); //terminal ma body dekhauna yo use garna parxa data pathauna
 
